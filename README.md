@@ -18,7 +18,7 @@
 - Joomla
 - Работа с API, Telegram Bot API
 - Базовый уровень HTML, CSS, PHP
-- Английский язык свободно - C2 - ![Сертификат C2 Proficient](./C2_Proficilent_EF_SET_Certificate.png)
+- Английский язык свободно - C2
    
 
 ## Контакты
@@ -27,3 +27,4 @@
 - Email: yauhenara@gmail.com
 
 Спасибо за интерес!
+ ![Сертификат C2 Proficient](./C2_Proficilent_EF_SET_Certificate.png)
