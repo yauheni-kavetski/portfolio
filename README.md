@@ -23,7 +23,7 @@
 
 ## Контакты
 
-- Telegram: @yourtelegram
-- Email: your.email@example.com
+- Telegram: @Euheniyt
+- Email: yauhenara@gmail.com
 
 Спасибо за интерес!
