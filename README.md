@@ -18,7 +18,8 @@
 - Joomla
 - Работа с API, Telegram Bot API
 - Базовый уровень HTML, CSS, PHP
-- Английский язык свободно - C1
+- Английский язык свободно - C2 - ![Сертификат C2 Proficient](./c2_certificate.jpg)
+   
 
 ## Контакты
 
