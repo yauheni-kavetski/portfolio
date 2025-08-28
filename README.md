@@ -8,7 +8,7 @@
 
 - [Python Telegram Bot для поиска отелей](https://github.com/yauheni-kavetski/yauheni_kavetski_telegram_bot_hotels) — бот для поиска и бронирования отелей по API через Amadeus (реализованы: inline-клавиатура, календарь, пагинация, история).
 - [Мой Joomla сайт](https://beltran.by)(https://github.com/yauheni-kavetski/yauheni_kavetski_file_synchronization_service) — динамический мультиязычный сайт на Joomla 3 с информацией об оказываемых мною услугах в области перевода текстов.
-- [Python File Synchronization Service] — динамический мультиязычный сайт на Joomla 3 с информацией об оказываемых мною услугах в области перевода текстов.
+- [Python File Synchronization Service](https://github.com/yauheni-kavetski/yauheni_kavetski_file_synchronization_service) — динамический мультиязычный сайт на Joomla 3 с информацией об оказываемых мною услугах в области перевода текстов.
 
 ## Навыки
 
