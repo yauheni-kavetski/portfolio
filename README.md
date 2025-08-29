@@ -20,7 +20,7 @@
 - Joomla
 - Работа с API, Telegram Bot API
 - Базовый уровень HTML, CSS, PHP
-- Английский язык свободно - C2
+- Английский язык свободно - C2 [EF SET сертификат - ссылка на профиль](https://cert.efset.org/xcFqAr)
    
 
 ## Контакты
@@ -30,5 +30,5 @@
 
 Спасибо за интерес!
 
-[EF SET сертификат - ссылка на профиль](https://cert.efset.org/xcFqAr)
+
 ![Сертификат C2 Proficient](./C2_Proficilent_EF_SET_Certificate.png)
