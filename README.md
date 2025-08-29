@@ -29,4 +29,6 @@
 - Email: yauhenara@gmail.com
 
 Спасибо за интерес!
- ![Сертификат C2 Proficient](./C2_Proficilent_EF_SET_Certificate.png)
+
+![Ссылка на профиль сертификата](https://cert.efset.org/xcFqAr)
+![Сертификат C2 Proficient](./C2_Proficilent_EF_SET_Certificate.png)
